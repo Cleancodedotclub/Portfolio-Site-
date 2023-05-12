@@ -1,2 +1,5 @@
-# Portfolio-Site-
 The Pug JS Portfolio Site is a project that demonstrates the use of Pug, a templating engine for Node.js, to create a responsive and mobile-friendly portfolio website. Pug simplifies HTML coding by allowing developers to write HTML with less syntax, making it more concise and easier to read.
+
+The website includes a home page, an about page, a portfolio page, and a contact page. The home page features an attractive hero section with a background image and text overlay. The about page provides a brief introduction to the site owner and their skills. The portfolio page showcases the site owner's projects with thumbnail images and descriptions. Finally, the contact page includes a form for visitors to submit inquiries.
+
+The repo contains all the necessary files and assets to build and run the website locally. It includes Pug templates, Sass files for styling, and JavaScript files for interactivity. The project also utilizes Gulp, a task runner for automating repetitive tasks such as compiling Sass files and watching for changes to the source code.
